@@ -33,10 +33,10 @@ const Footer = ({ frontmatter }) => {
             {medium ? <SocialIcons.Medium userName={medium} /> : null}
           </Col>
           <Col lg={4} className="text-lg-right">
-            <a className="mr-3" href={privacyHref}>
+            <a className="mr-3" href={privacyHref} style={{ paddingRight: '1vw' }}>
               {privacyText}
             </a>
-            <a href={termsHref}>{termsText}</a>
+            <a className="mr-3" href={termsHref}>{termsText}</a>
           </Col>
         </Row>
       </Container>

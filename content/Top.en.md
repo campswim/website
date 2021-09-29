@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
-imageFileName: "header-bg.jpg"
+header: "Camp Swim"
+subheader: "The water's nice."
+imageFileName: "header-bg.png"
 jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchorText: "Hop In"
 ---

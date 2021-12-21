@@ -1,4 +1,4 @@
 ---
 brand: "Camp Swim"
-menuText: "Menu "
+menuText: "Menu"
 ---

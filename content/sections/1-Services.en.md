@@ -1,7 +1,7 @@
 ---
 anchor: "Services"
 header: "Services"
-subheader: "Camp Swim is a boutique app builder run by and for code-camp grads trying to close the distance from here to hire."
+subheader: "Camp Swim is a boutique software consultancy run by and for code-camp grads trying to close the gap from here to hire."
 services: [
   {
     iconName: "UserGraduateIcon",

@@ -12,7 +12,7 @@ module.exports = {
     "internship",
     "apprenticeship"
   ],
-  description: "The website of Camp Swim, a boutique app builder run by and for code-camp grads.",
+  description: "The website of Camp Swim, a boutique software consultancy run by and for code-camp grads.",
   author: "Nathan Cox and Sara Strasner",
   trackingId: "UA-119418003-5",
   defaultLang: "en",

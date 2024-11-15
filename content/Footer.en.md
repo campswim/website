@@ -1,12 +1,12 @@
 ---
-copyright: "© Camp Swim 2021"
+copyright: "© Camp Swim 2024"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
+  # twitter: "#",
+  # facebook: "#",
+  # medium: "#"
 }
-privacyText: "Privacy Policy"
-privacyHref: "#!"
-termsText: "Terms of Use"
-termsHref: "#!"
+# privacyText: "Privacy Policy"
+# privacyHref: "#!"
+# termsText: "Terms of Use"
+# termsHref: "#!"
 ---
